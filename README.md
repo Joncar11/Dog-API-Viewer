@@ -29,6 +29,7 @@ This is a simple Laravel project that interacts with The Dog API to fetch and di
 5. Generate the application key
 6. Compile the assets
 7. Start the Larave server
+8. Don't forget to change the .env.example file to .env
 
 Usage
 Click on "Get Random Dog" to fetch a random dog image.
